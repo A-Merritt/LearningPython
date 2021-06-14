@@ -38,7 +38,3 @@ Everly.user_balance()
 Austin.transfer_money(Emily,20)
 Austin.user_balance()
 Emily.user_balance()
-
-
-
-# def transfer_money(self, other_user, amount)
